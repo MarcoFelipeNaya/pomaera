@@ -14,10 +14,10 @@ Hoje Pomaera é divida em 7 regiões, cada uma com suas característi
 
 - **[[Corália]]**
 
-- **[[Tariniel]]**
+- [[Tariniel]]
 
-- **Montes Tempestuosos**
+- Montes Tempestuosos
 
-- **Rokai**
+- Rokai
 
-- **Ilhas Etéreas**
+- Ilhas Etéreas

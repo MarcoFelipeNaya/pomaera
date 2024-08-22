@@ -7,3 +7,4 @@ Alguns costumes em Pomaera são compartilhados apenas dentro de sua regiões de 
 - [[Idiomas]]
 - [[Jogos]]
 - [[Moedas]]
+- [[Céu e Estrelas]]

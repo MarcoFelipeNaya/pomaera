@@ -1,11 +1,6 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
-draft: false
-tags:
-  - 
+title: Bem vindos a Pomaera!
 ---
-```
 Pomaera é uma RPG criado por Lucas Queiroz e Marco Felipe! Primeiramente sendo pensado como um sistema próprio (Inspirado nas melhores partes do D&D). Mas mirando em ser mais simples e dar mais escolhas para os jogadores e mestres, ainda é um projeto em andamento.
 
   

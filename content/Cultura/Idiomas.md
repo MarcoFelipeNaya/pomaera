@@ -4,7 +4,7 @@ Legenda: (X)<(Y) significa que há mútua inteligibilidade entre a língua X e a
 
 - **Comum (C)** - Língua comum de Pomaera, originária dos primeiros povos de Âmago e espalhada por toda Pomaera na era de globalização.
 - **Faérico (F)**- Língua do plano de Faéria, bastante falada pelos povos élficos, tem ocorrência em todo território de Pomaera.
-- **Qhori (Q)**- Língua originada no plano Quori e antiga língua falada no território de Myrtariniel nas primeiras eras. (ver ⁠[[Ashtars]] )
+- **Qhori (Q)**- Língua originada no plano Quori e antiga língua falada no território de Myrtariniel nas primeiras eras. (ver ⁠[[Ashtar]] )
 - **Qhoriel (Ql)<(Q)** - Língua moderna derivada do Qhori. Ocorre no território de [[Tariniel]] como língua oficial e em Myr entre as famílias mais tradicionais.
 - **Corié (Qé)<(Ql)<(Q)** - Língua oficial de Myr. Tem o vocabulário principalmente embasado nas raízes das línguas Qhoriel e Comum, instaurada em Myr depois da guerra como ato político de dissociação cultural com Tariniel.
 - **Infernal (I)** - Língua do plano infernal, não ocorre muito em Pomaera. Falada principalmente por seres como demônios e diabos.

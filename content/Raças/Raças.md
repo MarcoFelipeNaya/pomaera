@@ -6,30 +6,30 @@ Algumas das raças oficiais não estão disponíveis como opções ou 
 
 Em seguida a lista das principais Raças de Pomaera:
 
-- **[[Humanos]]**
+- **[[Humano]]**
   
-- **[[Elfos]]**
+- **[[Elfo]]**
 
-- **[[Halflings]](Pequeninos)**
+- **[[Halfling]]**
 
-- **[[Tieflings]](Tiferinos)**
+- **[[Tiefling]]**
 
-- **[[Catfolks]]**
+- **[[Catfolk]]**
 
-- **[[Meio-elfos]]**
+- **[[Meio-elfo]]**
 
 - **[[Aasimar]]**
 
-- **[[Aaracokras]]**
+- **[[Aaracokra]]**
 
-- **[[Firbolgs]]**
+- **[[Firbolg]]**
 
-- **[[Genasis]]**
+- **[[Genasi]]**
   
-- **[[Sereianos]]**
+- **[[Sereiano]]**
 
-- **[[Submersos]]**
+- **[[Submerso]]**
 
-- **[[Ashtars]]**
+- **[[Ashtar]]**
 
-- **[[Lébrios]]**
+- **[[Lébrio]]**

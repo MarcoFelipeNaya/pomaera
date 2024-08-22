@@ -1,0 +1,1 @@
+Meios elfos são o resultado de uma relacionamento entre humanos e, obviamente, elfos, apesar de possuírem traços de ambos os pais são vistos como bastardos principalmente pela sociedade élfica que presa por sua linhagem.

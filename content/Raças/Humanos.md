@@ -1,0 +1,2 @@
+
+Os humanos são a raça com a maior taxa de reprodução entre todas e por isso se tornaram grandes em número além de produzirem grandes heróis, é uma raça perfeita para quem quer flexibilidade de escolhas e uma gama maior de atributos. Apesar da sua flexibilidade de escolhas os humanos possuem um tempo curto de vida, sendo uma das raças que amadurece mais cedo do que todas as outras, isso é um ponto sensível para todos os humanos já que seus companheiros sempre viverão mais do que eles. 

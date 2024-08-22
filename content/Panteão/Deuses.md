@@ -1,0 +1,1 @@
+Pomaera possuí dois panteões, o primeiro deles e o mais antigo é o [[Panteão Primordial]], onde os primeiros aspectos de divindades ajudaram a evoluir a civilização e o segundo panteão, chamado de [[Panteão Precursor]], onde as divindades se tornaram distantes do mundo material.

@@ -6,3 +6,9 @@ Pomaera é uma RPG criado por Lucas Queiroz e Marco Felipe! Primeiram
   
 
 Pomaera é um lugar que se desenvolveu muito cedo por conta da magia fluir mais forte em todo o seu território.
+
+## Comece por aqui!
+- [[Cultura]] 
+- [[Deuses]]
+- [[Raças]]
+- [[Região]]
